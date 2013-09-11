@@ -1,1 +1,0 @@
-this folder repo is dedicated to learning OpenCV and Computer Vision in general. These excercises will also give me a chance to learn how to use GIT and github properly. 
